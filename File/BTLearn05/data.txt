@@ -1,0 +1,5 @@
+Ma san pham: AAA
+Ten san pham: BBB
+Hang san pham: CCC
+Gia san pham: 120USD
+Cac mo ta khac: khong co

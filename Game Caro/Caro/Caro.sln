@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caro", "Caro.csproj", "{90275F53-9329-4AAB-BC2D-72D1DCB888EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caro2", "..\Caro2\Caro2.csproj", "{787F40A7-CDFB-4DC1-A764-C5B311BEB021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90275F53-9329-4AAB-BC2D-72D1DCB888EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90275F53-9329-4AAB-BC2D-72D1DCB888EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90275F53-9329-4AAB-BC2D-72D1DCB888EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90275F53-9329-4AAB-BC2D-72D1DCB888EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787F40A7-CDFB-4DC1-A764-C5B311BEB021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787F40A7-CDFB-4DC1-A764-C5B311BEB021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787F40A7-CDFB-4DC1-A764-C5B311BEB021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787F40A7-CDFB-4DC1-A764-C5B311BEB021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EF292B-BBB9-4AC7-8C63-E409CF80B429}
+	EndGlobalSection
+EndGlobal
